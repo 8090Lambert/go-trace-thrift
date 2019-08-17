@@ -1,4 +1,4 @@
-# Customized Thrift
+# go-trace-thrift
 
 > 自定义 thrift 服务
 
@@ -9,7 +9,7 @@
 
 ## Install
 ```
-$ go get github.com/8090Lambert/CustomizedThrift
+$ go get github.com/8090Lambert/go-trace-thrift
 ```
 
 ## Usage
